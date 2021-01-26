@@ -1,5 +1,5 @@
 ## JS
-### 01.使用ES5模拟ES6的filter方法
+#### 01.使用ES5模拟ES6的filter方法
 
 分类:JavaScript
 
@@ -28,3 +28,9 @@
 分类:Vue
 
 [答案&解析](https://github.com/aotushi/JS-point/issues/5)
+
+#### 06.axios拦截器的原理是什么?
+
+分类:JavaScript
+
+[答案&解析](https://github.com/aotushi/JS-point/issues/6)
