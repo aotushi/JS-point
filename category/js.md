@@ -103,7 +103,7 @@
 
 [答案&解析](https://github.com/aotushi/JS-point/issues/14)
 
-#### 14.CORS的原理是什么?
+#### 15.CORS的原理是什么?
 
 分类:Http
 
